@@ -1,4 +1,4 @@
-A Machine Learning Project for Real Estate Valuation
+# King County Home Price Analysis
 
 Objectives
   1. Analyze residential real estate in King County, Washington to identify the attributes that most influence house prices
